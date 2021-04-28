@@ -6,8 +6,8 @@ redirect_from:
   - /articles/about-pull-requests
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  enterprise-server: '*'microsoft
+  github-ae: '*'bodslang@outlook.com
 topics:
   - pull requests
 ---
